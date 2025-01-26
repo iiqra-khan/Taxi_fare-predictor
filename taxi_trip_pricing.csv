@@ -67,8 +67,8 @@ Trip_Distance_km,Time_of_Day,Day_of_Week,Passenger_Count,Traffic_Conditions,Weat
 27.59,Evening,Weekend,1.0,Medium,Rain,2.07,1.03,0.46,67.33,61.459500000000006
 7.91,Morning,Weekday,4.0,Medium,Clear,4.09,1.55,0.47,110.69,68.3748
 40.31,Morning,Weekday,4.0,Medium,Clear,4.18,1.34,0.12,108.49,71.2142
-4.65,Afternoon,Weekday,1.0,Medium,,4.51,1.08,0.43,56.54,33.8442
-49.36,Morning,,4.0,High,Rain,4.92,1.13,0.12,36.56,65.084,
+4.65,Afternoon,Weekday,1.0,Medium,Rain,4.51,1.08,0.43,56.54,33.8442
+49.36,Morning,Weekend,4.0,High,Rain,4.92,1.13,0.12,36.56,65.084
 38.84,Morning,Weekend,2.0,Low,Clear,4.93,1.34,0.25,50.21,69.52810000000001
 10.74,Morning,,3.0,Medium,Clear,2.2,0.51,0.32,49.59,23.546200000000002
 1.27,Morning,Weekday,2.0,High,Clear,4.47,0.62,0.16,37.99,11.335799999999999
