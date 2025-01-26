@@ -5,5 +5,5 @@ import numpy as np;
 
 st.write("hello world")
 
-df = pd.read_csv('taxi_trip_pricing.csv')
+df = pd.read_csv(r'C:\Users\iqra khan\OneDrive\Desktop\MSC\MachineLearning\Streamlit\Code\TaxiFarePredictor\taxi_trip_pricing.csv')
 df
